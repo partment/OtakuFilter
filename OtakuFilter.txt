@@ -23,5 +23,6 @@ www.pixiv.net###root > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type
 ! Pixiv Phone Homepage
 www.pixiv.net###wrapper > #container > .premium-lead-new-t-info-home-top
 www.pixiv.net###wrapper > #container > #ad-header
+www.pixiv.net###wrapper > #container > #ad-footer
 !NHentai Homepage
 nhentai.net###content > section:nth-of-type(1)
