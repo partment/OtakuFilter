@@ -1,4 +1,4 @@
-! Title: uBlock filters
+! Title: OtakuFilter
 ! Author: PartMent | https://partment.ga
 ! Description: Filters optimized for websites that Otaku often visits
 ! Version: 1.0
