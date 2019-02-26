@@ -1,6 +1,6 @@
 ! Title: OtakuFilter
 ! Author: PartMent | https://partment.ga
-! Description: Filters optimized for websites that Otaku often visits
+! Description: Filters optimized for websites that Otaku often visits.
 ! Version: 1.0
 ! Expires: 1 days
 ! Homepage: https://github.com/partment/OtakuFilter
@@ -28,7 +28,7 @@ www.pixiv.net###wrapper > #container > #contents > .portal > div.space:nth-of-ty
 www.pixiv.net##footer > nav:nth-of-type(2) > div.premium-lead-t-footer
 ! Pixiv Phone member_illust.php
 www.pixiv.net###wrapper > #container > #contents > #spa-contents > div:nth-of-type(2) > div.premium-lead
-www.pixiv.net###wrapper > #container > #contents > #spa-contents > div:nth-of-type(2) > div:nth-of-type(3)
+www.pixiv.net###wrapper > #container > #contents > #spa-contents > div:nth-of-type(2) > div:nth-of-type(3):has(.ad-frame)
 www.pixiv.net###wrapper > #container > #contents > #spa-contents > div:nth-of-type(2) > div.illust-details-view > span:has(.ad-frame)
 !NHentai Homepage
 nhentai.net###content > section:nth-of-type(1)
