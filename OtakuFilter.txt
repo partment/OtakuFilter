@@ -1,3 +1,11 @@
+! Title: uBlock filters
+! Author: PartMent | https://partment.ga
+! Description: Filters optimized for websites that Otaku often visits
+! Version: 1.0
+! Expires: 1 days
+! Homepage: https://github.com/partment/OtakuFilter
+! License: https://creativecommons.org/licenses/by-sa/4.0
+! Support: https://github.com/partment/OtakuFilter/issues
 ! Pixiv
 ! Pixiv Homepage
 www.pixiv.net###column-misc > section:nth-of-type(1)
