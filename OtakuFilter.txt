@@ -31,7 +31,7 @@ www.pixiv.net###wrapper > #container > #contents > #spa-contents > div:nth-of-ty
 www.pixiv.net###wrapper > #container > #contents > #spa-contents > div:nth-of-type(2) > div:nth-of-type(3):has(.ad-frame)
 www.pixiv.net###wrapper > #container > #contents > #spa-contents > div:nth-of-type(2) > div.illust-details-view > span:has(.ad-frame)
 ! Pixiv Phone member.php
-www.pixiv.net###wrapper > #container > #contents > #header > div:nth-of-type(1):has(.ad-frame)
+www.pixiv.net###wrapper > #container > #header > div:nth-of-type(1):has(.ad-frame)
 !NHentai Homepage
 nhentai.net###content > section:nth-of-type(1)
 nhentai.net###content > section:nth-of-type(3)
