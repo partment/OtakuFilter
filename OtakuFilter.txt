@@ -1,0 +1,41 @@
+! Title: OtakuFilter
+! Author: PartMent | https://partment.ga
+! Description: Filters optimized for websites that Otaku often visits.
+! Version: 1.0
+! Expires: 1 days
+! Homepage: https://github.com/partment/OtakuFilter
+! License: https://creativecommons.org/licenses/by-sa/4.0
+! Support: https://github.com/partment/OtakuFilter/issues
+! Pixiv
+! Pixiv PC Homepage
+www.pixiv.net###column-misc > section:nth-of-type(1)
+www.pixiv.net#$##column-misc > section:nth-of-type(2) { margin-top: 0px!important; }
+www.pixiv.net##header > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2)
+www.pixiv.net##[name="left_comic"]
+www.pixiv.net##.comic-container.side-menu > .area_inside
+www.pixiv.net##.ui-layout-west > .area_new
+www.pixiv.net###wrapper > div:nth-of-type(2)
+www.pixiv.net###wrapper > div:nth-of-type(3)
+! Pixiv PC member_illust.php
+www.pixiv.net###root > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > aside:nth-of-type(1) > div:nth-of-type(1)
+www.pixiv.net###root > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > aside:nth-of-type(1) > div:nth-of-type(2)
+www.pixiv.net###root > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(1) > div:nth-of-type(4)
+! Pixiv PC member.php
+www.pixiv.net###root > * > * > * > div:has(iframe[name="footer"])
+! Pixiv Phone Homepage
+www.pixiv.net###wrapper > #container > .premium-lead-new-t-info-home-top
+www.pixiv.net###wrapper > #container > #ad-header
+www.pixiv.net###wrapper > #container > #ad-footer
+www.pixiv.net###wrapper > #container > #contents > .portal > div.space:nth-of-type(6)
+www.pixiv.net##footer > nav:nth-of-type(2) > div.premium-lead-t-footer
+! Pixiv Phone member_illust.php
+www.pixiv.net###wrapper > #container > #contents > #spa-contents > div:nth-of-type(2) > div.premium-lead
+www.pixiv.net###wrapper > #container > #contents > #spa-contents > div:nth-of-type(2) > div:nth-of-type(3):has(.ad-frame)
+www.pixiv.net###wrapper > #container > #contents > #spa-contents > div:nth-of-type(2) > div.illust-details-view > span:has(.ad-frame)
+! Pixiv Phone member.php
+www.pixiv.net###wrapper > #container > #header > div:nth-of-type(1):has(.ad-frame)
+www.pixiv.net###wrapper > #container > #contents > #spa-contents > div:nth-of-type(2) > * > * > div:has(.ad-frame)
+www.pixiv.net###wrapper > #container > #contents > #spa-contents > div:nth-of-type(2) > div:nth-of-type(1) > div:has(.ad-frame)
+!NHentai Homepage
+nhentai.net###content > .advertisement:nth-of-type(1)
+nhentai.net###content > .advertisement:nth-of-type(2)
