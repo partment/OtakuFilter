@@ -7,7 +7,7 @@
 ! License: https://creativecommons.org/licenses/by-sa/4.0
 ! Support: https://github.com/partment/OtakuFilter/issues
 ! Pixiv
-! Pixiv Homepage
+! Pixiv PC Homepage
 www.pixiv.net###column-misc > section:nth-of-type(1)
 www.pixiv.net#$##column-misc > section:nth-of-type(2) { margin-top: 0px!important; }
 www.pixiv.net##header > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2)
@@ -16,9 +16,12 @@ www.pixiv.net##.comic-container.side-menu > .area_inside
 www.pixiv.net##.ui-layout-west > .area_new
 www.pixiv.net###wrapper > div:nth-of-type(2)
 www.pixiv.net###wrapper > div:nth-of-type(3)
-! Pixiv member_illust.php
+! Pixiv PC member_illust.php
 www.pixiv.net###root > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > aside:nth-of-type(1) > div:nth-of-type(1)
 www.pixiv.net###root > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > aside:nth-of-type(1) > div:nth-of-type(2)
 www.pixiv.net###root > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(1) > div:nth-of-type(4)
+! Pixiv Phone Homepage
+www.pixiv.net###wrapper > #container > .premium-lead-new-t-info-home-top
+www.pixiv.net###wrapper > #container > #ad-header
 !NHentai Homepage
 nhentai.net###content > section:nth-of-type(1)
