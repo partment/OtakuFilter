@@ -1,7 +1,7 @@
 ! Title: OtakuFilter
 ! Author: PartMent | https://partment.ga
 ! Description: Filters optimized for websites that Otaku often visits.
-! Version: 1.0
+! Version: 1.1
 ! Expires: 1 days
 ! Homepage: https://github.com/partment/OtakuFilter
 ! License: https://creativecommons.org/licenses/by-sa/4.0
@@ -14,8 +14,7 @@ www.pixiv.net##header > div:nth-of-type(1) > h1:nth-of-type(1) > div:nth-of-type
 www.pixiv.net##[name="left_comic"]
 www.pixiv.net##.comic-container.side-menu > .area_inside
 www.pixiv.net##.ui-layout-west > .area_new
-www.pixiv.net###wrapper > div:nth-of-type(2)
-www.pixiv.net###wrapper > div:nth-of-type(3)
+www.pixiv.net###wrapper > div:nth-of-type(2):has(.multi-ads-area)
 ! Pixiv PC member_illust.php
 www.pixiv.net###root > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > aside:nth-of-type(1) > div:nth-of-type(1)
 www.pixiv.net###root > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > aside:nth-of-type(1) > div:nth-of-type(2)
