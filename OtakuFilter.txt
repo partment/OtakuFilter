@@ -44,3 +44,6 @@ www.acgdoge.net###title_r > a > img
 www.tsdm.love###threadlist > .bm_c > #moderate > table > tbody:has(img[border="0"])
 ! DMHY
 share.dmhy.org##.main > .topics_bk > .user-sidebar > .box:has(script[charset="gbk"])
+! Bahamut
+www.gamer.com.tw#$#.BA-left { transform: translateX(150px)!important; }
+www.gamer.com.tw#$#.BA-center { transform: translateX(150px)!important; }
