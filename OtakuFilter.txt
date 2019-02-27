@@ -47,3 +47,6 @@ share.dmhy.org##.main > .topics_bk > .user-sidebar > .box:has(script[charset="gb
 ! Bahamut
 www.gamer.com.tw#$#.BA-left { transform: translateX(150px)!important; }
 www.gamer.com.tw#$#.BA-center { transform: translateX(150px)!important; }
+m.gamer.com.tw##.index-hotmobile
+m.gamer.com.tw##.goAPP
+ani.gamer.com.tw##.goAPP
