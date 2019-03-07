@@ -1,7 +1,7 @@
 ! Title: OtakuFilter
 ! Author: PartMent | https://partment.ga
 ! Description: Filters optimized for websites that Otaku often visits.
-! Version: 1.1
+! Version: 1.2
 ! Expires: 1 days
 ! Homepage: https://github.com/partment/OtakuFilter
 ! License: https://creativecommons.org/licenses/by-sa/4.0
@@ -50,3 +50,8 @@ www.gamer.com.tw#$#.BA-center { transform: translateX(150px)!important; }
 m.gamer.com.tw##.index-hotmobile
 m.gamer.com.tw##.goAPP
 ani.gamer.com.tw##.goAPP
+! IsekaiRaw
+isekairaw.com##.body-top-ads
+isekairaw.com##.chapter-warning
+isekairaw.com#$#.read-container { margin-bottom: 0px!important; }
+isekairaw.com##.body-bottom-ads
