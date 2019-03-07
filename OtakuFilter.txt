@@ -53,4 +53,5 @@ ani.gamer.com.tw##.goAPP
 ! IsekaiRaw
 isekairaw.com##.body-top-ads
 isekairaw.com##.chapter-warning
+isekairaw.com#$#.read-container { margin-bottom: 0px!important; }
 isekairaw.com##.body-bottom-ads
