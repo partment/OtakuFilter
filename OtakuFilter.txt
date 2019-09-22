@@ -41,10 +41,10 @@ nhentai.net###content > .advertisement:nth-of-type(2)
 ! ACGDoge
 www.acgdoge.net###title_r > a > img
 ! TSDM
-www.tsdm.love###threadlist > .bm_c > #moderate > table > tbody:has(img[border="0"])
-www.tsdm.love###ts_sidebar_base
-www.tsdm.love##.wap_doze:has(img)
-www.tsdm.love##.ts_ad_vt_top
+www.tsdm.*###threadlist > .bm_c > #moderate > table > tbody:has(img[border="0"])
+www.tsdm.*###ts_sidebar_base
+www.tsdm.*##.wap_doze:has(img)
+www.tsdm.*##.ts_ad_vt_top
 ! DMHY
 share.dmhy.org##.main > .topics_bk > .user-sidebar > .box:has(script[charset="gbk"])
 ! Bahamut
@@ -53,9 +53,3 @@ www.gamer.com.tw#$#.BA-center { transform: translateX(150px)!important; }
 m.gamer.com.tw##.index-hotmobile
 m.gamer.com.tw##.goAPP
 ani.gamer.com.tw##.goAPP
-! IsekaiRaw
-isekairaw.com##.body-top-ads
-isekairaw.com##.c-top-second-sidebar
-isekairaw.com##.chapter-warning
-isekairaw.com#$#.read-container { margin-bottom: 0px!important; }
-isekairaw.com##.body-bottom-ads
