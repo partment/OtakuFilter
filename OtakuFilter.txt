@@ -41,10 +41,10 @@ nhentai.net###content > .advertisement:nth-of-type(2)
 ! ACGDoge
 www.acgdoge.net###title_r > a > img
 ! TSDM
-www.tsdm.*###threadlist > .bm_c > #moderate > table > tbody:has(img[border="0"])
-www.tsdm.*###ts_sidebar_base
-www.tsdm.*##.wap_doze:has(img)
-www.tsdm.*##.ts_ad_vt_top
+tsdm.*###threadlist > .bm_c > #moderate > table > tbody:has(img[border="0"])
+tsdm.*###ts_sidebar_base
+tsdm.*##.wap_doze:has(img)
+tsdm.*##.ts_ad_vt_top
 ! DMHY
 share.dmhy.org##.main > .topics_bk > .user-sidebar > .box:has(script[charset="gbk"])
 ! Bahamut
